@@ -7,4 +7,17 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="frosted_bg_dark">#FF1C1B1F</color>
+    <color name="frosted_pill_bg">#FFD0BCFF</color>
+    <color name="frosted_pill_text">#FF381E72</color>
+    <color name="frosted_card_bg">#2EFFFFFF</color>
+    <color name="frosted_card_border">#4DFFFFFF</color>
+    <color name="frosted_title_bg">#33FFFFFF</color>
+    <color name="frosted_second_bg">#FFFEF7FF</color>
+    <color name="frosted_second_circle">#FFF3EDF7</color>
+    <color name="frosted_second_text">#FF49454F</color>
+    <color name="frosted_second_text_muted">#9949454F</color>
+    <color name="frosted_second_button">#FF6750A4</color>
+    <color name="frosted_second_bus_tint">#446750A4</color>
 </resources>
