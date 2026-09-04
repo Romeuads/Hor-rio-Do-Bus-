@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Horários de Ônibus</string>
+    <string name="primeira_tela">Primeira Tela</string>
+    <string name="segunda_tela">Segunda Tela</string>
+    <string name="proxima_tela">Próxima tela</string>
+    <string name="voltar">voltar</string>
+    <string name="jotur">jotur</string>
+    <string name="consorcio_fenix">Consórcio Fenix</string>
+    <string name="background_description">Estrada no horizonte</string>
+    <string name="sistema_horarios_integrado">Sistema de Horários Integrado</string>
+</resources>
